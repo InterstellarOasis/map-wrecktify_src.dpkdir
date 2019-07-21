@@ -1,0 +1,328 @@
+{
+"classname" "worldspawn"
+}
+{
+"classname" "team_human_spawn"
+"origin" "-368 624 32"
+"angle" "270"
+}
+{
+"classname" "team_alien_spawn"
+"origin" "2496 1344 -40"
+"angle" "90"
+}
+{
+"classname" "info_player_intermission"
+"origin" "752 1016 256"
+"angle" "-90"
+}
+{
+"classname" "info_human_intermission"
+"origin" "-432 -152 256"
+"angle" "45"
+}
+{
+"classname" "info_alien_intermission"
+"origin" "3016 2068 -192"
+"angle" "-135"
+}
+{
+"classname" "func_door"
+"team" "1"
+"speed" "50"
+"angle" "90"
+"lip" "40"
+"model" "*1"
+}
+{
+"classname" "func_door"
+"team" "1"
+"speed" "50"
+"angle" "270"
+"lip" "40"
+"model" "*2"
+}
+{
+"classname" "func_door"
+"spawnflags" "5"
+"angle" "-2"
+"wait" "30"
+"speed" "50"
+"lip" "8"
+"targetname" "compactor1"
+"dmg" "9000"
+"model" "*3"
+}
+{
+"classname" "func_door"
+"angle" "270"
+"spawnflags" "4"
+"speed" "20"
+"wait" "10"
+"lip" "128"
+"targetname" "compactor1"
+"dmg" "9000"
+"model" "*4"
+}
+{
+"classname" "func_button"
+"wait" "40"
+"angle" "180"
+"target" "compactor1"
+"model" "*5"
+}
+{
+"classname" "target_speaker"
+"origin" "3392 -208 -64"
+"noise" "sound/ambient/drone1.wav"
+"spawnflags" "1"
+}
+{
+"classname" "func_door"
+"team" "2"
+"wait" "5"
+"angle" "-1"
+"speed" "100"
+"lip" "8"
+"model" "*6"
+}
+{
+"classname" "func_door"
+"speed" "50"
+"team" "2"
+"angle" "-2"
+"wait" "5"
+"lip" "68"
+"model" "*7"
+}
+{
+"classname" "func_door"
+"team" "3"
+"speed" "50"
+"angle" "-2"
+"lip" "68"
+"wait" "5"
+"model" "*8"
+}
+{
+"classname" "func_door"
+"wait" "5"
+"team" "3"
+"speed" "100"
+"lip" "8"
+"angle" "-1"
+"model" "*9"
+}
+{
+"classname" "func_door"
+"lip" "68"
+"angle" "-2"
+"wait" "5"
+"speed" "50"
+"team" "4"
+"model" "*10"
+}
+{
+"classname" "func_door"
+"team" "4"
+"wait" "5"
+"lip" "8"
+"angle" "-1"
+"speed" "100"
+"model" "*11"
+}
+{
+"classname" "func_door"
+"team" "6"
+"angle" "-1"
+"wait" "5"
+"speed" "100"
+"lip" "8"
+"model" "*12"
+}
+{
+"classname" "func_door"
+"lip" "68"
+"speed" "50"
+"wait" "5"
+"angle" "-2"
+"team" "6"
+"model" "*13"
+}
+{
+"classname" "func_door"
+"team" "101"
+"speed" "150"
+"angle" "0"
+"wait" "2"
+"lip" "4"
+"model" "*14"
+}
+{
+"classname" "func_door"
+"team" "101"
+"angle" "180"
+"speed" "300"
+"wait" "2"
+"lip" "6"
+"model" "*15"
+}
+{
+"classname" "func_door"
+"team" "102"
+"speed" "150"
+"lip" "4"
+"angle" "270"
+"wait" "2"
+"model" "*16"
+}
+{
+"classname" "func_door"
+"wait" "2"
+"team" "102"
+"speed" "300"
+"angle" "90"
+"lip" "6"
+"model" "*17"
+}
+{
+"classname" "func_door"
+"speed" "200"
+"wait" "3"
+"lip" "5"
+"angle" "-1"
+"model" "*18"
+}
+{
+"classname" "func_door"
+"speed" "200"
+"angle" "-1"
+"wait" "3"
+"lip" "5"
+"model" "*19"
+}
+{
+"classname" "func_door"
+"targetname" "pillars1"
+"lip" "16"
+"wait" "15"
+"speed" "10"
+"angle" "-1"
+"model" "*20"
+}
+{
+"classname" "func_button"
+"angle" "0"
+"target" "pillars1"
+"wait" "60"
+"model" "*21"
+}
+{
+"classname" "func_door"
+"team" "7"
+"angle" "-1"
+"lip" "8"
+"speed" "100"
+"wait" "5"
+"model" "*22"
+}
+{
+"classname" "func_door"
+"team" "7"
+"angle" "-2"
+"wait" "5"
+"lip" "68"
+"speed" "50"
+"model" "*23"
+}
+{
+"classname" "team_alien_spawn"
+"origin" "2688 2112 -264"
+"angle" "270"
+}
+{
+"classname" "team_alien_overmind"
+"origin" "2368 1344 -232"
+"angle" "270"
+}
+{
+"classname" "team_alien_acid_tube"
+"origin" "2768 1392 -232"
+}
+{
+"classname" "team_alien_acid_tube"
+"origin" "2304 1904 -232"
+}
+{
+"classname" "team_alien_acid_tube"
+"origin" "2304 1696 -232"
+}
+{
+"classname" "team_alien_acid_tube"
+"origin" "2928 1392 -232"
+}
+{
+"classname" "team_human_spawn"
+"origin" "-112 624 32"
+"angle" "270"
+}
+{
+"classname" "team_human_reactor"
+"origin" "-240 672 32"
+"angle" "270"
+}
+{
+"classname" "team_human_mgturret"
+"origin" "-240 560 32"
+"angle" "270"
+}
+{
+"classname" "team_human_mgturret"
+"origin" "-352 240 32"
+"angle" "270"
+}
+{
+"classname" "team_human_mgturret"
+"origin" "-192 240 32"
+"angle" "270"
+}
+{
+"classname" "func_door"
+"lip" "5"
+"speed" "200"
+"wait" "3"
+"angle" "-1"
+"model" "*24"
+}
+{
+"classname" "func_door"
+"wait" "3"
+"speed" "200"
+"lip" "5"
+"angle" "-1"
+"model" "*25"
+}
+{
+"classname" "target_speaker"
+"origin" "2000 1808 448"
+"noise" "sound/ambient/fan.wav"
+"spawnflags" "1"
+}
+{
+"classname" "target_speaker"
+"origin" "2720 0 -176"
+"noise" "sound/ambient/quickpulse.wav"
+"spawnflags" "1"
+}
+{
+"classname" "target_speaker"
+"origin" "352 -800 416"
+"noise" "sound/ambient/slowpulse2.wav"
+"spawnflags" "1"
+}
+{
+"classname" "target_speaker"
+"origin" "1872 592 32"
+"noise" "sound/ambient/steam.wav"
+"spawnflags" "1"
+}
