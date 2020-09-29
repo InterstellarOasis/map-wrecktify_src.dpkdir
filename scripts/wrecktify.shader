@@ -1,6 +1,6 @@
 textures/wrecktify/ladder
 {
-        qer_editorimage textures/wrecktify/ladder.tga
+        qer_editorimage textures/wrecktify/ladder
 //      qer_trans .40
         surfaceparm ladder
         surfaceparm nodraw
@@ -14,7 +14,7 @@ textures/wrecktify/ladder
 
 textures/wrecktify/blackwall_noshadow
 {
-	qer_editorimage textures/nexus6/blackwall.tga
+	qer_editorimage textures/nexus6/blackwall
 	surfaceparm trans
 	{
 		map $lightmap 
@@ -22,7 +22,7 @@ textures/wrecktify/blackwall_noshadow
 		tcGen lightmap 
 	}
 	{
-		map textures/nexus6/blackwall.tga
+		map textures/nexus6/blackwall
 		blendfunc filter
 		rgbGen identity
 	}

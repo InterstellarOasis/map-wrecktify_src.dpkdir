@@ -1,0 +1,20 @@
+Wrecktify beta 2 - a map for Tremulous (http://tremulous.net/)
+
+Release: May 9, 2010
+
+Author: Rezyn
+        aka John Ellis <johne@verizon.net>
+
+Wrecktify uses textures from the stock 1.1 maps, a small number of
+additional textures are included within the pk3.
+
+History:
+ 07/30/2008 Beta 1
+  * first public release for the 2008 Tremcentral.com mapping contest
+
+ 05/09/2010 Beta 2
+  * Add entity locations for use in 1.2/gpp HUD
+  * Lower ceiling height of Compactor room
+  * Add more crates, and detailing under grating
+  * Reduce 'rant blocker button reset time
+
