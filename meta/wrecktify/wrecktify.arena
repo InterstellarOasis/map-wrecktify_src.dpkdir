@@ -1,5 +1,6 @@
 {
-  map       "wrecktify"
-  longname  "Wrecktify Beta 2"
-  type      "tremulous"
+	map "wrecktify"
+	longname "Wrecktify"
+	author "Rezyn"
+	type "tremulous"
 }
