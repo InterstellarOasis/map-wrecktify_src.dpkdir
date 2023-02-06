@@ -1,4 +1,4 @@
-Wrecktify beta 2 - a map for Tremulous (http://tremulous.net/)
+Wrecktify beta 2 - a map for Tremulous
 
 Release: May 9, 2010
 
@@ -17,4 +17,3 @@ History:
   * Lower ceiling height of Compactor room
   * Add more crates, and detailing under grating
   * Reduce 'rant blocker button reset time
-
